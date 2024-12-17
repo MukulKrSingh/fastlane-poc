@@ -35,7 +35,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="fastlane_poc" >
         <activity
-            android:name="com.example.fastlane_poc.MainActivity"
+            android:name="com.mks.fastlane.poc.app.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"

@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/android@@:firebase_core::release"
-      jars="/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/firebase_core/.transforms/e0e8c63515c770feb8b3eb1d9a858925/transformed/out/jars/classes.jar:/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/firebase_core/.transforms/e0e8c63515c770feb8b3eb1d9a858925/transformed/out/jars/libs/R.jar"
+      name="/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/android@@:firebase_core::release"
+      jars="/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/firebase_core/.transforms/fc389d1fe50e916700935d8ddc9ebd28/transformed/out/jars/classes.jar:/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/firebase_core/.transforms/fc389d1fe50e916700935d8ddc9ebd28/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebase.core:firebase_core:unspecified"
-      folder="/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/firebase_core/.transforms/e0e8c63515c770feb8b3eb1d9a858925/transformed/out"
+      folder="/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/firebase_core/.transforms/fc389d1fe50e916700935d8ddc9ebd28/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

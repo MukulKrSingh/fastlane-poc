@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/android/app"
+    dir="/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     agpVersion="8.1.0"
-    buildFolder="/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/app"
+    buildFolder="/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/app"
     bootClassPath="/Users/mukulkumarsingh/Library/Android/sdk/platforms/android-34/android.jar:/Users/mukulkumarsingh/Library/Android/sdk/build-tools/33.0.1/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-34">

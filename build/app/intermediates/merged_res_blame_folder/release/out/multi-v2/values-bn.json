@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fastlane_poc.app-mergeReleaseResources-27:/values-bn/values-bn.xml",
+            "outputFile": "com.mks.fastlane.poc.app-mergeReleaseResources-27:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "/Users/mukulkumarsingh/.gradle/caches/transforms-3/25303bfa731ad2ab17d3513b6410954f/transformed/core-1.13.1/res/values-bn/values-bn.xml",

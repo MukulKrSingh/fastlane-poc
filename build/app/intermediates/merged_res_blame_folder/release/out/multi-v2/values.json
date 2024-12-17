@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fastlane_poc.app-mergeReleaseResources-27:/values/values.xml",
+            "outputFile": "com.mks.fastlane.poc.app-mergeReleaseResources-27:/values/values.xml",
             "map": [
                 {
                     "source": "/Users/mukulkumarsingh/.gradle/caches/transforms-3/8db813eb8aefdbe335df79386252ee91/transformed/fragment-1.7.1/res/values/values.xml",
@@ -74,25 +74,6 @@
                     }
                 },
                 {
-                    "source": "/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "163,167",
-                        "startColumns": "4,4",
-                        "startOffsets": "8779,8960",
-                        "endLines": "166,169",
-                        "endColumns": "12,12",
-                        "endOffsets": "8955,9124"
-                    }
-                },
-                {
                     "source": "/Users/mukulkumarsingh/.gradle/caches/transforms-3/aefb9ac74908ffdd3c190cdd84606721/transformed/jetified-window-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,9,17,25,37,43,49,50,51,52,53,54,55,61,66,74,89",
@@ -131,6 +112,23 @@
                     }
                 },
                 {
+                    "source": "/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/app/generated/res/google-services/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,137,241,350,470,578",
+                        "endColumns": "81,103,108,119,107,76",
+                        "endOffsets": "132,236,345,465,573,650"
+                    },
+                    "to": {
+                        "startLines": "156,157,158,159,160,161",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "8108,8190,8294,8403,8523,8631",
+                        "endColumns": "81,103,108,119,107,76",
+                        "endOffsets": "8185,8289,8398,8518,8626,8703"
+                    }
+                },
+                {
                     "source": "/Users/mukulkumarsingh/.gradle/caches/transforms-3/62ac00d169f29908206165cd8c63b11e/transformed/jetified-activity-1.8.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -165,6 +163,25 @@
                     }
                 },
                 {
+                    "source": "/Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "163,167",
+                        "startColumns": "4,4",
+                        "startOffsets": "8779,8960",
+                        "endLines": "166,169",
+                        "endColumns": "12,12",
+                        "endOffsets": "8955,9124"
+                    }
+                },
+                {
                     "source": "/Users/mukulkumarsingh/.gradle/caches/transforms-3/331e6def37b6f31d44e288907978ac31/transformed/lifecycle-viewmodel-2.7.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -179,23 +196,6 @@
                         "startOffsets": "7095",
                         "endColumns": "49",
                         "endOffsets": "7140"
-                    }
-                },
-                {
-                    "source": "/Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/app/generated/res/google-services/release/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,137,241,350,470,578",
-                        "endColumns": "81,103,108,119,107,76",
-                        "endOffsets": "132,236,345,465,573,650"
-                    },
-                    "to": {
-                        "startLines": "156,157,158,159,160,161",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "8108,8190,8294,8403,8523,8631",
-                        "endColumns": "81,103,108,119,107,76",
-                        "endOffsets": "8185,8289,8398,8518,8626,8703"
                     }
                 }
             ]

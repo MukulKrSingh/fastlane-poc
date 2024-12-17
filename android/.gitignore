@@ -26,7 +26,7 @@ key.properties
 
 # fastlane gcp keys
 firebase-supply-key.json 
-# firebase-login-creds.json
-# google-services.json
+firebase-login-creds.json
+google-services.json
 
 

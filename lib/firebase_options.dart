@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'poc-fastlane-101.firebasestorage.app',
     iosBundleId: 'com.example.fastlanePoc',
   );
+
 }

@@ -38,6 +38,7 @@ platform :android do
            groups_file: "fastlane/groups.txt",
            service_credentials_file: ENV["FIREBASE_LOGIN_CREDENTIALS"],
            firebase_cli_path: "/usr/local/bin/firebase",
+           debug:true,
 
      )
      # fastlane testGoogle r:"First Alpha Release"

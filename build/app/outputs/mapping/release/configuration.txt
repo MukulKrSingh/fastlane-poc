@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0
+# The proguard configuration file for the following section is /Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,7 +116,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0
+# End of content from /Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0
 # The proguard configuration file for the following section is /Users/mukulkumarsingh/development/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -127,16 +127,16 @@
 -dontwarn android.**
 
 # End of content from /Users/mukulkumarsingh/development/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
-# The proguard configuration file for the following section is /Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# The proguard configuration file for the following section is /Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
 -keep class androidx.startup.InitializationProvider { <init>(); }
--keep class com.example.fastlane_poc.MainActivity { <init>(); }
 -keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.mks.fastlane.poc.app.MainActivity { <init>(); }
 
-# End of content from /Users/mukulkumarsingh/workspace/flutter_workspace/poc/fastlane_poc/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /Users/mukulkumarsingh/workspace/flutter_workspace/fastlane-poc/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /Users/mukulkumarsingh/.gradle/caches/transforms-3/eca4333cb219929078e4b58375a8cccc/transformed/jetified-firebase-common-21.0.0/proguard.txt
 -dontwarn com.google.firebase.platforminfo.KotlinDetector
 -dontwarn com.google.auto.value.AutoValue
