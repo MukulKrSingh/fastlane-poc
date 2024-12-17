@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poc-fastlane-101",
+  "private_key_id": "ae497850bcc944ae3db8d4df94253fbd35d3bd10",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzN42GeWRMdqBC\nJRvsTEpaJ8KAob1fD8X86NNz0YXxXnge/PHmAAZqWUKbvP2/r+pkSIuaktTGFIUF\nvfgUuW8Mi6wU8Y7k7ACXbG37yNU+Mwl+yp7Ji/Hxuzgg/3BwIFCpfcY/SKFYxq5v\ndMmLmFWRhqNN5F/ZT+ihKmqaN0n9BG1T4PPdg9Bb7xJJlvEcjPRCd7NEKgZLLo+P\ngoif13ZKmWiD0mMzkueR/Gr3fjLaHohzmfg0vgGvelMv2ItCm0/K4Ltkf7RjOD4h\nomq633Va/2YlcfOcA4Ynwer6VMLYmxRY48gE4a1Wzj/DdY31tvL0u1/76FGsmbVP\nKMYbfZ7DAgMBAAECggEAOZbS5BDzEX0XH1o0YFjdlZ3sKxCOPVNgwFYCyNddzsOY\nHwESLGH6rcb0F/6BnczGKaaEMc4YEHS8kC1M4D/8NtBVIj/DNr29rOr7ZqrRF1Uo\nKnWq08IkI5URQs1CkM1ZjjVr9J7+tfvWRtuE/lYbvRFCPb/yqu66JrvuGJNGs8Zk\nPcHy4qjlGDUiLjlFyhI6Iu1VKkcSoqDHPrH2ZF/7YIrwheiWIFUc0MCZPffWaIbp\nMy9uFz0Iga1X2aJMZkIemmaENM4MnmZVUkHoRPYB22krofFWmax1jL+2PS9ZKiw1\nEL7wjMQ7f0ScIMAa0uWa7R8beOt+av9CkxhYunJMPQKBgQDYzreUO0vn+yhONrXE\n4JEn3QIKdPzSP1k29AhCQP3/tkWSQX1umGRmRJFE/PoJReyvukbomqYbboMRLAkb\n4fBzPY3LRa3UAV0/Q9NJIfLO07hbYKxrabC7YPS/uuYU2BlllUDPS7OAywHkkYIv\nhhbmZoh2tjCGMU5Tw6hNUtdMHwKBgQDTnT8ZyjPHFNdLHFyiqQkA4M0aS/ME/m0j\n20ar5MMJ0CAQSB3mgAWtYDHQgjmqaQGrYXihw5exXcuz1QUY9B6xJhAmw5FEojjk\nZURgOISDEG8HYC/WBPTUTestHv4u+izB+jYIHELBzc9wZZ33PMPkrMI8XVTaT+Uv\nM9VfJ8IY3QKBgQDT2hLqppKCiRoWa0Fsst9EK6J941jUfRBJMWYMj4Ni5pHO222c\nrw6UG/YzilssyoYAJK57RfqAHZm3Iud3tmyFvyUZ9ulnmzmpwzXnZWPklF+18p4o\ni2slfhVKcG+4+HzAlXpx1Q//Dt+3oDOtCoK/+nroPRjnV7CpCywe+o7kkwKBgQC3\nejS28LnaGDjfWBT9t+AlkcRj04w/PTZ2C26IJc3x2TGjzFOYglHp1Gj8p5zGI0ue\nQ+HrKAKDd5biMoW78BYYdK82XQS8ZIc9iIwzfW1vkjUiSQTQ5PU+ityo/6FWK/XY\nrlBg0dgT35XHl2PSdS5IPH4hBq9GplVJiwCrA3boRQKBgFFb7D4LhClKaXNd6b3s\nIGv9KlYj6HKjkAtZo/y2WfEnVsHRR9hikGVHLuqzUfVdGiZDz49bFTIAkTTkOQRf\ntOqy+7xmvxeesJtnbhssC83oDyrCzHLR4G9jNIIaWZ4tyVVmc5ej9fsRQOvG7lFA\nK75cVeJun4N4VDlon2vfG6PG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-app-distribution@poc-fastlane-101.iam.gserviceaccount.com",
+  "client_id": "101650616348667732847",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-app-distribution%40poc-fastlane-101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

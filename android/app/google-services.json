@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "446356974915",
+      "project_id": "poc-fastlane-101",
+      "storage_bucket": "poc-fastlane-101.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:446356974915:android:63f8111799566ddd9d13f6",
+          "android_client_info": {
+            "package_name": "com.mks.fastlane.poc.app"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCbGA98592WE29lEbBKMp4dDHB67QKT6os"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  

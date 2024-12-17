@@ -1,0 +1,32 @@
+# Ignore gradle directory (but not the wrapper files)
+
+.gradle/
+/captures/
+
+
+# Don't ignore gradle wrapper files
+!android/gradle/wrapper/gradle-wrapper.jar
+!android/gradle/wrapper/gradle-wrapper.properties
+
+# Ignore other platform-specific files
+local.properties
+key.properties
+**/*.keystore
+**/*.jks
+
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+# fastlane gcp keys
+firebase-supply-key.json 
+# firebase-login-creds.json
+# google-services.json
+
+
